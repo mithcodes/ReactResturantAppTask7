@@ -1,0 +1,13 @@
+.cartItemContainer {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 20px;
+  }
+  
+  .cartListBtn {
+    padding: 5px;
+    background-color: lightgreen;
+    font-weight: bold;
+    margin-right: 10px;
+    margin-top: 20px;
+  }

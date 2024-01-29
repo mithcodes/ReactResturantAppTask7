@@ -1,0 +1,23 @@
+.cartLogo {
+    font-variation-settings: "FILL" 0, "wght" 400, "GRAD" 0, "opsz" 24;
+    margin-right: 5px;
+  }
+  
+  .cartButton {
+    display: flex;
+    justify-content: center;
+    height: 50px;
+    padding-top: 14px;
+    margin-top: 20px;
+    border: solid 1px whitesmoke;
+    border-radius: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: rgb(214 36 4);
+    font-weight: bold;
+    font-size: 18px;
+  }
+  
+  .qty {
+    margin-left: 5px;
+  }

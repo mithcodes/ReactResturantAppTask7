@@ -1,0 +1,32 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(214, 36, 4);
+    padding-left: 100px;
+    padding-right: 100px;
+    height: 90px;
+  }
+  
+  .imageContainer {
+    text-align: center;
+    position: relative;
+  }
+  .image {
+    width: 100%;
+  }
+  .mainHeading {
+    color: whitesmoke;
+  }
+  .summary {
+    width: 56%;
+    background-color: rgb(88, 88, 88);
+    color: whitesmoke;
+    padding: 20px;
+    text-align: center;
+    margin: auto;
+    border-radius: 10px;
+    position: absolute;
+    top: 340px;
+    left: 22%;
+    box-shadow: rgba(0, 0, 0, 0.473) 0px 3px 8px;
+  }
